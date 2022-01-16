@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chester-strive
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning The C language ,Web
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
